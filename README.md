@@ -9,6 +9,18 @@ The Airbnb Clone Project is a comprehensive, real-world application designed to 
 - **Review System**: Allow users to leave reviews and ratings for properties.
 - **Data Optimization**: Ensure efficient data retrieval and storage through database optimizations.
 
+## Team Roles | Collaboration for Good
+*Be the sort of engineer that people would love to work with.*
+
+- **Project manager (PM)**: Ensures that the project stays on track and all neccesary resources are allocated.
+- **Business Analyst**: Translates customer business needs into requirements.
+- **Product Owner**: Holds responsibility for a product vision and evolution.
+- **Backend Developer**: Responsible for implementing API endpoints, database schemas, and business logic.
+- **Database Administrator**: Manages database design, indexing, and optimizations.
+- **DevOps Engineer**: Handles deployment, monitoring, and scaling of the backend services.
+- **QA Engineer**: Ensures the backend functionalities are thoroughly tested and meet quality standards.
+- **UI/UX designer**: Transforms product vision into user friendly designs.
+
 ## Technology Stack
 - **Django**: A high-level Python web framework used for building the RESTful API.
 - **Django REST Framework**: Provides tools for creating and managing RESTful APIs.
@@ -18,3 +30,16 @@ The Airbnb Clone Project is a comprehensive, real-world application designed to 
 - **Redis**: Used for caching and session management.
 - **Docker**: Containerization tool for consistent development and deployment environments.
 - **CI/CD Pipelines**: Automated pipelines for testing and deploying code changes.
+
+## Database Design
+- **Users**: Register new users, authenticate, and manage user profiles.
+- **Properties**: Create, update, retrieve, and delete property listings.
+- **Bookings**: Make, update, and manage bookings, including check-in and check-out details.
+- **Payments**: Handle payment transactions related to bookings.
+- **Reviews**: Post and manage reviews for properties.
+
+## Feature Breakdown
+
+## API Security
+
+## CI/CD Pipeline
